@@ -1,0 +1,5 @@
+ Necessary policies and roles required for this use-case
+
+* IAM role 
+* S3 read and write access
+* SNS and SQS access	
